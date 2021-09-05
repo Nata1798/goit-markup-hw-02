@@ -32,9 +32,8 @@ body {
 .header-logo-firstpart {
     color: #2196f3;
 }
-
 .header-link {
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
@@ -47,14 +46,14 @@ body {
     color: #2196f3;
 }
 .header-mail{
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
     color: #757575; 
 }
 .header-tel {
-    font-weight: 500px;
+    font-weight: 500;
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
